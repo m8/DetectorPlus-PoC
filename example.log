@@ -1,0 +1,9 @@
+qemu-system-x86-58915   [001] .... 47323.735730: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412720063
+qemu-system-x86-58915   [001] .... 47323.735731: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412720574
+qemu-system-x86-58915   [001] .... 47323.735731: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412720946
+qemu-system-x86-58915   [001] .... 47323.735732: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412721500
+qemu-system-x86-58915   [001] .... 47323.735733: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412721857
+qemu-system-x86-58915   [001] .... 47323.735734: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412722331
+qemu-system-x86-58915   [001] .... 47323.735734: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412722697
+qemu-system-x86-58915   [001] .... 47323.735735: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412723179
+qemu-system-x86-58915   [001] .... 47323.735736: handle_rdtsc: [DETECTOR log]; 00000000009ff860 ; 82940412723547
